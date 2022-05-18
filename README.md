@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+【﻿Ｐｒｏｊｅｃｔ　Ｄｅｓｃｒｉｐｔｉｏｎ】
+
+⚛  🎀  𝐼𝓉 𝒾𝓈 𝒶 𝓅😍𝓇𝓉𝒻💗𝓁𝒾🍑 𝓌𝑒𝒷𝓈𝒾𝓉𝑒. 𝒯𝒽𝑒 𝓈𝒾𝓉𝑒 𝒽𝒶𝓈 𝒶 𝒽❁𝓂𝑒𝓅𝒶𝑔𝑒, 𝒶𝓃 𝒶𝒷💗𝓊𝓉 𝓅𝒶𝑔𝑒, 𝒶𝓃𝒹 𝒶 𝓅𝒶𝑔𝑒 𝓌𝒾𝓉𝒽 𝒶 𝓂𝒶𝓅 💍𝒻 𝒸🏵𝓃𝓉𝒶𝒸𝓉 𝒾𝓃𝒻🍩𝓇𝓂𝒶𝓉𝒾🏵𝓃 🏵𝓃 𝒾𝓉. 𝒯𝒽𝒾𝓈 𝓌𝑒𝒷𝓈𝒾𝓉𝑒 𝒾𝓈 𝒷𝓊𝒾𝓁𝓉 𝓌𝒾𝓉𝒽 𝓉𝑒𝒸𝒽𝓃❀𝓁😍𝑔𝒾𝑒𝓈 𝓈𝓊𝒸𝒽 𝒶𝓈 𝑅𝑒𝒶𝒸𝓉, 𝒮𝒶𝓈𝓈, 𝒶𝓃𝒹 𝓂𝒶𝓃𝓎 🌺𝓉𝒽𝑒𝓇 𝒶𝓃𝒾𝓂𝒶𝓉𝒾💗𝓃 𝓅𝒶𝒸𝓀𝒶𝑔𝑒𝓈. 𝐵𝓎 𝓉𝒽𝑒 𝓌𝒶𝓎, 𝓉𝒽𝒾𝓈 𝓈𝒾𝓉𝑒 𝒾𝓈 𝓃☯𝓉 𝒶 𝓇𝑒𝓈𝓅☯𝓃𝓈𝒾𝓋𝑒 𝓌𝑒𝒷𝓈𝒾𝓉𝑒.  🎀  ⚛
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
